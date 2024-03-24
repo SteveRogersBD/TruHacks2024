@@ -21,6 +21,5 @@ ChemExplorer is an Android application developed using Android Studio, Firebase,
 
 The primary motivation behind ChemExplorer is to democratize access to chemistry education and laboratory resources. By leveraging technology, the project aims to bridge the gap between students in resource-rich and resource-poor environments, enabling anyone with a smartphone to explore and learn chemistry in an interactive and engaging manner.
 
-<img src="" alt="Image Description" width="300" height="200">
 
 
