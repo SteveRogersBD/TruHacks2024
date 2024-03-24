@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChemExplorer Project</title>
-</head>
-<body>
+
+<title>ChemExplorer Project</title>
+
+
     <h1>ChemExplorer</h1>
     <p>
         ChemExplorer is an Android application developed using Android Studio, Firebase, SQLite database, and ChatGPT API. It aims to provide access to virtual labs and educational resources to students in third-world countries who may not have access to expensive laboratory equipment. The project focuses on reducing the use of chemicals while providing an interactive learning platform for chemistry enthusiasts.
@@ -31,6 +27,5 @@
     <h2>Motivation</h2>
     <p>
         The primary motivation behind ChemExplorer is to democratize access to chemistry education and laboratory resources. By leveraging technology, the project aims to bridge the gap between students in resource-rich and resource-poor environments, enabling anyone with a smartphone to explore and learn chemistry in an interactive and engaging manner.
-    </p>
-</body>
-</html>
+
+
